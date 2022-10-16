@@ -1,0 +1,11 @@
+to initialize a project : npm init 
+to install a node package : npm install <package-name>  / npm i <package-name>
+
+
+to initialize git repo : git init
+to start tracking all files in the git repo : git add . 
+*open a file called ".gitignore"
+to commit : git commit -m "<message>
+to add remote origin : git remote add origin <github address link>
+to check the remote address : git remote -v
+to push changes from local to remote : git push
